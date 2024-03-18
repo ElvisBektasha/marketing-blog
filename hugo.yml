@@ -1,4 +1,5 @@
-baseURL: "https://ElvisBektasha.github.com/marketing-blog/"
+# baseURL: "https://ElvisBektasha.github.com/marketing-blog/"
+baseURL: "https://blog.elvisbektasha.com"
 languageCode: en-us
 title: Marketing Blog
 theme: PaperMod
