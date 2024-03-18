@@ -23,8 +23,8 @@ params:
   keywords: [marketing, Blog, digital, facebook, google, social media]
   author: Elvis Bektasha
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
-  disableThemeToggle: true
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
 
   ShowReadingTime: false
   ShowShareButtons: true
@@ -34,7 +34,7 @@ params:
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: false
-  disableSpecial1stPost: true
+  disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
   hidemeta: false
@@ -59,7 +59,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Pershendetje \U0001F44B"
+    Title: "Hello \U0001F44B"
     Content: Mireseerdhet ne "Marketing Blog"
 
   socialIcons:
@@ -103,6 +103,10 @@ menu:
       name: Etiketat
       url: /tags/
       weight: 20
+    - identifier: about-me
+      name: Rreth Meje
+      url: /about-me/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Marketing on Marketing Blog</title>
-    <link>//localhost:1313/tags/marketing/</link>
+    <link>http://localhost:1313/tags/marketing/</link>
     <description>Recent content in Marketing on Marketing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cfare eshte Web3</title>
-      <link>//localhost:1313/cfareeshteweb3/</link>
+      <link>http://localhost:1313/posts/cfareeshteweb3/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>//localhost:1313/cfareeshteweb3/</guid>
+      <guid>http://localhost:1313/posts/cfareeshteweb3/</guid>
       <description>Cfare eshte Web3, si mund ta perdorim ne marketing dhe a jemi vone per te filluar?</description>
     </item>
   </channel>
